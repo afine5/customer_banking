@@ -8,7 +8,7 @@ class Account:
 
     # This method sets the balance of the account.
     def set_balance(self, balance):
-        """Sets the balance for the for the account"""
+        """Sets the balance for the account"""
         self.balance = balance
 
     # The method sets the interest gained for the account.
